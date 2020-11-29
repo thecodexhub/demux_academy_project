@@ -9,6 +9,7 @@ Ths project has several features:
 - Real time update from Cloud Firestore using Streams
 - Detailed question with example
 - Filter results on the basis of topics, companies, type of interview, type of job and colleges
+- Intuitive and Responsive design with instant loading and filter functionalities
 - Made with `Flutter`, a cross-platform application development framework.
 
 ## Screenshots
