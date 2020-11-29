@@ -10,3 +10,18 @@ Ths project has several features:
 - Detailed question with example
 - Filter results on the basis of topics, companies, type of interview, type of job and colleges
 - Made with `Flutter`, a cross-platform application development framework.
+
+## Screenshots
+
+ <div style="text-align: center"><table><tr>
+ <td style="text-align: center">
+ <img src="screenshots/ss1.png" width="610" />
+ </td>
+ <td style="text-align: center">
+ <img src="screenshots/ss3.png" width="610"/>
+ </td>
+ <td style="text-align: center">
+ <img src="screenshots/ss4.png" width="610"/>
+ </td>
+ </tr></table>
+ </div>
