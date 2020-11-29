@@ -35,3 +35,7 @@ Ths project has several features:
  </td>
  </tr></table>
  </div>
+ 
+ ## Installation process:
+_Download the project. Open in code editor. Go to the terminal and run `flutter build apk --release`. This will make apk file._
+_For convenience click [here](https://drive.google.com/file/d/1ZPvUbZhrGGrKmPfQaAu3QRIPtjEyvcCk/view?usp=sharing) to download the apk_
