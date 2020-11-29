@@ -16,13 +16,13 @@ Ths project has several features:
 
  <div style="text-align: center"><table><tr>
  <td style="text-align: center">
- <img src="screenshots/ss1.png" width="610" />
+ <img src="screenshots/ss1.jpg" width="610" />
  </td>
  <td style="text-align: center">
- <img src="screenshots/ss3.png" width="610"/>
+ <img src="screenshots/ss2.jpg" width="610"/>
  </td>
  <td style="text-align: center">
- <img src="screenshots/ss4.png" width="610"/>
+ <img src="screenshots/ss3.jpg" width="610"/>
  </td>
  </tr></table>
  </div>
@@ -39,3 +39,6 @@ Ths project has several features:
  ## Installation process:
 _Download the project. Open in code editor. Go to the terminal and run `flutter build apk --release`. This will make apk file._
 _For convenience click [here](https://drive.google.com/file/d/1ZPvUbZhrGGrKmPfQaAu3QRIPtjEyvcCk/view?usp=sharing) to download the apk_
+
+## Video Demo
+_For video demo click [here](https://drive.google.com/file/d/1xlAeLe4Eg4DSh0YEttHWcoKCVPc__9GW/view?usp=sharing)_
