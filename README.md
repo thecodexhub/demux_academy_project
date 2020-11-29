@@ -1,16 +1,12 @@
-# demux_academy_project
+# Demux Academy Project
 
-A new Flutter application.
+ The landing page of an App which displays the questions asked in this year’s campus placements across India.
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ths project has several features:
+- In `HomePage` each question has a title, frequency, topics and a few tags like difficulty, type of interview and type of job
+- Real time update from Cloud Firestore using Streams
+- Detailed question with example
+- Filter results on the basis of topics, companies, type of interview, type of job and colleges
+- Made with `Flutter`, a cross-platform application development framework.
