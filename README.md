@@ -26,3 +26,12 @@ Ths project has several features:
  </td>
  </tr></table>
  </div>
+
+## Database demo
+
+ <div style="text-align: center"><table><tr>
+ <td style="text-align: center">
+ <img src="screenshots/database_demo.PNG" width="610" />
+ </td>
+ </tr></table>
+ </div>
