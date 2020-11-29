@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>849296613685-clgdvtpolnmviqabl9c3k4r6pq58np7g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.849296613685-clgdvtpolnmviqabl9c3k4r6pq58np7g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3FQcOBJ9VaQ5LzSaa0eOcz2CJocgSj5M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>849296613685</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.demuxAcademyProject</string>
+	<key>PROJECT_ID</key>
+	<string>demuxacademyproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>demuxacademyproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:849296613685:ios:a62feefff550f65237ac7c</string>
+	<key>DATABASE_URL</key>
+	<string>https://demuxacademyproject.firebaseio.com</string>
+</dict>
+</plist>
